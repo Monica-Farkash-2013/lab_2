@@ -1,0 +1,4 @@
+A : M : AM : AF : 5.0
+B : F : A  : BF : 4
+G : M : B : GF : 3
+H : F : A: HF : 2

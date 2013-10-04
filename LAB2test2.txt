@@ -1,0 +1,21 @@
+A : M : X : Y : 5
+B : F : X : Y : 5
+C : F : X : Y : 5
+D : M : X : Y : 5
+E : M : X : Y : 5
+P : M : X : Y : 5
+Q : F : X : Y : 2
+R : F : X : Y : 2
+S : M : X : Y : 2
+T : M : X : Y : 2
+A A : M : U : P : 4
+B B : F : U : P : 4
+C C : F : U : Y : 4
+D D : M : U : Y : 4
+E E : M : U : Y : 4
+P P : M : Z : Y : 2
+Q Q : F : Z : Y : 2
+R R : F : Z : Y : 2
+S S : M : Z : Y : 2
+T T : M : Z : Y : 2
+

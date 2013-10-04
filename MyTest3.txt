@@ -1,0 +1,9 @@
+A : M : AM : AF : 5.0
+B : F : A: BF : 4
+C : F : CM : CF : 3.9
+D : F : DM : DF : 6.0
+E : F : EM : EF : 5.9
+
+G : M : GM : GF : 3
+H : F : HM : HF : 2
+I : F : IM : IF : 1.9
